@@ -1,0 +1,17 @@
+width block - 778 px
+margin-left- 245
+margin-right - 120
+margin-top: 64
+margin-bottom: 60
+
+размер заголовков - 20 пикселей
+разамер категорий - 14
+дата и автор - 12 пикселей
+текст - 15 пикселей
+
+отступ между картинкой и контентом карточки - 30 пикселей
+
+margin-bottom categories - 15px
+margin-bottom title - 37px
+margin-bottom date - 55 px
+margin-bottom text - 68 px
